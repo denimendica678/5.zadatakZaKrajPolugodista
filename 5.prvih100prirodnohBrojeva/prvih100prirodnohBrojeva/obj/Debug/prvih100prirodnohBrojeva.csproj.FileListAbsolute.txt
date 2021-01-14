@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\bin\Debug\prvih100prirodnohBrojeva.exe.config
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\bin\Debug\prvih100prirodnohBrojeva.exe
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\bin\Debug\prvih100prirodnohBrojeva.pdb
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\obj\Debug\prvih100prirodnohBrojeva.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\obj\Debug\prvih100prirodnohBrojeva.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\obj\Debug\prvih100prirodnohBrojeva.exe
+C:\Users\denim\source\repos\prvih100prirodnohBrojeva\prvih100prirodnohBrojeva\obj\Debug\prvih100prirodnohBrojeva.pdb
